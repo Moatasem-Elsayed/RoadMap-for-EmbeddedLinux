@@ -2,7 +2,9 @@
 
 >Job Profiles
 >> 1- Application Engineer 
+
 >> 2- Integrator Engineer ( Image Builder)
+
 >> 3- Board Support Package 
 
 - Every Profile Need some skills but all of them match in understanding Linux as os and its commands and bla bla which we called Linux administration 
